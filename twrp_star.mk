@@ -23,7 +23,7 @@ $(call inherit-product, $(DEVICE_PATH)/device.mk)
 PRODUCT_RELEASE_NAME := star
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := venus
+PRODUCT_DEVICE := star
 PRODUCT_NAME := twrp_star
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 11 Ultra
